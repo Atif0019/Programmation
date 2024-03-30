@@ -1,0 +1,9 @@
+body {
+    font-size: 15pt;
+      background-image: url('téléchargement.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+}
+header{background: skyblue; width: 500px; height: 40px; color: #000C95}
+
+h3{color: #330EFF}
